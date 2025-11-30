@@ -1,2 +1,2 @@
 # smartbayes
-Repository for code and experiments about the Smart Bayes classification method.
+Repository for code and experiments about the Smart Bayes method.
